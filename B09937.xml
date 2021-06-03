@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schema sacrum: vel, Forma uniformitatis formosissima: Arguments for order: or, Conformity confirm'd. For an uniform resorting, to each ones parochial church; to perform their duty, of an entire service, upon the Lords day.</title>
+            <author>Sadler, Anthony, b. 1610.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09937</idno><idno type="EEBO-CITATION">80923563</idno>
+  <idno type="VID">191989</idno>
+  <idno type="EEBO-PROQUEST">2240871619</idno>
+  
+            <idno type="OCLC"> 80923563</idno>
+            <idno type="STC">Wing S269</idno>
+            <idno type="STC">ESTC R183158</idno>
+            <idno type="OCLC">80923563</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191989)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2897:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Schema sacrum: vel, Forma uniformitatis formosissima: Arguments for order: or, Conformity confirm'd. For an uniform resorting, to each ones parochial church; to perform their duty, of an entire service, upon the Lords day.</title>
+                  <author>Sadler, Anthony, b. 1610.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Milbourn,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXV. [1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Anthonie Sadler: chaplain in etraordinary to His Majesty.</note>
+                  <note>"Imprimatur, Geo: Stradling ..."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191989:1"/>
+            <head>SCHEMA SACRUM: VEL, <hi>Forma Ʋniformitatis Formosissima:</hi> ARGUMENTS for Order: or, CONFORMITY Confirm'd. For an Uniform Resorting, to each ones Parochial Church; to perform their Duty, of an Entire Service, upon the Lords Day. <figure>
+                  <q xml:lang="lat">Ordo Regnum regit <hi>&amp;</hi> In Ordine Lex est.</q>
+                  <figDesc>portrait of King Charles II</figDesc>
+               </figure>
+               <figure>
+                  <q xml:lang="lat">Ordo Ecclesiam servat: <hi>&amp;</hi> In Ordine Pax est.</q>
+                  <figDesc>depiction of a clergyman</figDesc>
+               </figure>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kingdome of <hi>England,</hi> divided into Parishes; was, and is, for this four-fold end and purpose.
+<list>
+                  <item>1. That the better Government:</item>
+                  <item>2. That the Publick Peace:</item>
+                  <item>3. That true Propriety: and,</item>
+                  <item>4. That the Publick Good,</item>
+               </list> Might the better be Established and Enjoyed, both in the Church and State.</p>
+            <p>And therefore every Person, is conscionably obliged, to make his Repair to his Parish Church; and that more particularly, for these Nine following Reasons.
+<list>
+                  <item>I. <seg rend="decorInit">B</seg>Ecause, every Minister having lawful Institution and Induction, into a Pastoral Charge; he hath from God and Man; the Charge of those Souls, over which he is <hi>OVERSEER.</hi>
+                  </item>
+                  <item>II. Because, every Person leaving his own Parish Church, usually and purposely; to Repair and Resort unto any other; is a pub<g ref="char:EOLhyphen"/>lick Trespasser against the known Laws of the Land.</item>
+                  <item>III. Because, Non-Conformity begins Disorder, which begets Division: and it begets Disobedience, which begins Rebellion. Now, the end of Division, is Destruction: and the end of Rebellion, is Damnation.</item>
+                  <item>IV. Because, such as wilfully refuse, to Resort to their Parish Church, do Discomfort, Discourage, and Discredit, their own lawful Minister: bring<g ref="char:EOLhyphen"/>ing a Scandal upon HIM; As if he were unworthy, unable, and unprofitable, in the Sacred Function of his delegated Ministry.</item>
+                  <item>V. Because, they bring a Scandal upon the whole Parish; as if it were a Place of Libertinism; very Disorderly and Irreligious: without all fear, of either God or the King; as to Order, and Devotion.</item>
+                  <item>VI. Because, they bring a Scandal upon Themselves; as if they were Scismatical in Opinion; wavering in the Faith; Despisers of Others; and endeavoured the Disturbance of the publick Peace.</item>
+                  <item>VII. Because, such as wilfully refuse to Resort unto their Parish Church, can never have any true Comfort, by resorting unto any other: for, <hi>To do evil, that good may come,</hi> is the Tenet of a Sectarist; and <hi>To Reform by Rebellion,</hi> is the Position of a Traytor; and <hi>To think to Edifie the poor Soul by a mis-zealous Disobedience,</hi> is the Errour of Fanaticks; and the Pantrap of a Non-Conformist.</item>
+                  <item>VIII. Because, such as wilfully refuse to Resort unto their Parish Church; and yet Gad up and down to other Places; they openly Disown, and noto<g ref="char:EOLhyphen"/>riously Disdain, the Form of the Kings Government: they declare to the World a most Unchristian Dis-affection to their proper Pastor: they make an un<g ref="char:EOLhyphen"/>happy Difference in the whole Parish: and a continual Contention, between the Minister and his People.</item>
+                  <item>IX. And lastly, Because, such as wilfully refuse to Resort unto their Parish Church, to Resort unto any other; they do (in a desperate presumption) manifestly sin against Gods own Word: for, it is written, in the thirteenth Cap. to the <hi>Hebrews,</hi> Verse the seventeenth;—<hi>Obey them which have the Rule over you, and submit your selves; for, they watch for your souls: as They that must give Account; that they may do it with joy, and not with Grief; for, that is Ʋnprofitable for You.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Thus, whilst the Non-Conformist, Disobeys God: Dishonours the King: Disturbs the Peace: Discredits his Ministers: and Disowns Government: He Discovers his Folly, and Destroys Himself.</p>
+            <p>Because he is,
+<list>
+                  <item>Neither a good Man:</item>
+                  <item>Nor good Christian:</item>
+                  <item>Nor good Subject:</item>
+                  <item>Nor good Parishioner.</item>
+               </list> Because, Against
+<list>
+                  <item>GOD his Word:</item>
+                  <item>The KING his Laws:</item>
+                  <item>The CHURCH Her Constitutions.</item>
+               </list> He is,
+<list>
+                  <item>Wilfully-wofully-wicked:</item>
+                  <item>Wilful for his Humour;</item>
+                  <item>Wicked for his Opinion; and,</item>
+                  <item>Woful for his Practise.</item>
+               </list>
+            </p>
+            <q xml:lang="lat">
+               <p>In principio Operis sui, Deus nihil prius, quàm Disciplinam fecit.</p>
+               <p>Quid autem, non erit tenebrosum? quid non incompositum? quid non haberetur absurdum? nisi constitutis Legibus, cuncta starent Elementa.</p>
+               <p>Omnia profectò, insipiens natura confunderet; nisi MƲNDƲM, Disciplinae ratio Gubernaret.</p>
+               <p>Nisi constitutus esset Ordo vi<g ref="char:EOLhyphen"/>vendi, nunquam profectò finem poneret natura Peccandi.</p>
+               <p>Omnia sub metu DISCIPLINAE Jacent Vitia.</p>
+               <bibl>St. Aug. de bono Dis. Cap. 1.</bibl>
+            </q>
+            <q xml:lang="lat">Contra Rationem, nemo Sobrius;<lb/> Contra Scripturas, nemo Christianus;<lb/> Contra Ecclesiam, nemo Pacificus<lb/> Senserit. <bibl>S. Aug. de Tri. cap. 4. lib. 6.</bibl>
+            </q>
+            <p>No Bishop, no King. No Minister, no Bishop. No Government, no Minister. No Order, No Government. And no safety to Any, if not Order in All. Therefore,</p>
+            <epigraph>
+               <q>Let all things be done decently, and in order: for God is not the Author of confusion, but of peace; as in all Churches of the Saints,</q>
+               <bibl>1 Cor. 14.33, 40.—</bibl>
+            </epigraph>
+            <closer>
+               <signed>So Believeth,—<hi>Anthonie Sadler:</hi> Chaplain in Extraordinary to His MAJESTY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>Ex Aed. Lamb. <date>Mart. 30. 1665.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>
+                  <hi>Geo: Stradling,</hi> S. T. P. Rever. in Christo Pat. D. Gilb. Archiep. Cant. à sac. Domest.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Milbourn,</hi> MDCLXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
